@@ -25,7 +25,7 @@ totalbyYear$fips[totalbyYear$fips=="06037"] <- "Los Angeles County, CA"
 
 ## png file creation
 
-png("Plot5.png")
+png("Plot6.png")
 
 ## plotting
 
